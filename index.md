@@ -1,6 +1,7 @@
 ---
-title: ololo lolo
 layout: default
 ---
+
+# Ololo lolo
 
 Hello world
