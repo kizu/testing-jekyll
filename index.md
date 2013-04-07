@@ -2,6 +2,16 @@
 layout: default
 ---
 
-# Ololo lolo
+# A list with code
 
-Hello world
+- ~~~
+.foo {
+    bar: baz;
+}
+~~~
+
+- 
+        .foo {
+            bar: baz;
+        }
+
