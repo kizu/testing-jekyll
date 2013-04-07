@@ -9,9 +9,11 @@ layout: default
     bar: baz;
 }
 ~~~
+    {:.language-css}
 
 - 
         .foo {
             bar: baz;
         }
+    {:.language-css}
 
